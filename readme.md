@@ -7,7 +7,7 @@ Over the past couple of years, I've accumulated bookmarks, saved Reddit posts, a
 
 I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
 
-Please ensure you use an adblocker like [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time.
+Please ensure you use an adblocker [Browser Extensions](#browser-extensions) to access any of the websites listed here, otherwise, you will have a bad time.
 
 For discussion and feedback, please head to [the Reddit thread on /r/Piracy](https://www.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
 
@@ -186,6 +186,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
 - [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
+- [uBlock Origin Extra](https://github.com/gorhill/uBO-Extra) A companion app for uBlock Origin.
 - [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) Just another adblocker based on uBlock Origin.
 - [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) An anti-Adblock defuser for Nano Adblocker and uBlock Origin.
 - [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
