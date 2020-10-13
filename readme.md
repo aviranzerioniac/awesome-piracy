@@ -7,7 +7,7 @@ Over the past couple of years, I've accumulated bookmarks, saved Reddit posts, a
 
 I am aware that a number of websites featured in this list rely on operating under obscurity, and that this list could potentially contribute to their demise through excess exposure. I'm sorry about that - I just like making lists.
 
-Please ensure you use an adblocker [Browser Extensions](#browser-extensions) to access any of the websites listed here, otherwise, you will have a bad time.
+Please ensure you use an adblocker from [Browser Extensions](#browser-extensions) to access any of the websites listed here, otherwise, you will have a bad time.
 
 For discussion and feedback, please head to [the Reddit thread on /r/Piracy](https://www.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). If you come across dead links, please report them by [creating an issue](https://github.com/Igglybuff/awesome-piracy/issues/new).
 
@@ -154,12 +154,13 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
-- [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
+- [privacytools.io](https://www.privacytools.io/providers/vpn/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 - [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
 ### VPN Subscription Services
 - [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
+- [Surfshark](https://surfshark.com/) A cheap and decent vpn, with no logs policy and functionality to add unlimited devices.
 - [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
 - [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
 - [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
@@ -167,6 +168,8 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
 
 ### Self-hosted VPNs
+
+- [PiVPN](https://www.pivpn.io/) An OpenVPN server for your raspberry pi.
 - [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
 - [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 - [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
@@ -1163,7 +1166,7 @@ premium services
 - [Gigacourse](https://gigacourse.com/)
 - [Desire Course](https://desirecourse.net/)
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
-- [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
+- [tpd](https://github.com/Aeres-u99/tpd) Tutorialspoint downloader, a newer alternative to tpget.
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
 - [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
