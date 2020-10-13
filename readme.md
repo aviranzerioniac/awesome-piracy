@@ -250,6 +250,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
+- [privacytools.io](https://www.privacytools.io/) PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.
 
 ### Windows 10 Privacy
 - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
@@ -260,6 +261,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
+- [Win10Privacy](https://www.w10privacy.de/english-home/) displays the available settings in a single place allowing user to set options rather easily.
 
 ## Email
 - [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
@@ -282,8 +284,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 ## Domain Names
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
-- [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
-for any IP address.
+- [xip.io](http://xip.io/) magic domain name that provides wildcard DNS for any IP address.
 - [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
 
 ## Torrenting
