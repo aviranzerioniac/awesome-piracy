@@ -1245,7 +1245,7 @@ premium services
 - [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
 - [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
-- [Watcher](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+- [Watcher](https://github.com/barbequesauce/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
 
 ### Music Automation
 - [Lidarr](https://github.com/lidarr/Lidarr) Looks and smells like Sonarr but made for music.
